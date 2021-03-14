@@ -12,5 +12,10 @@ public class LoginTest {
 		System.out.println("this is not here");
 		System.out.println("this is second connflict at master");
 		System.out.println("this is second of conflict at testers branch");
+		
+		System.out.println("ABC");
+		System.out.println("ABC");
+		System.out.println("ABC");
+		
 	}
 }
