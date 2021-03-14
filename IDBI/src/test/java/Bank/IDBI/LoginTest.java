@@ -9,6 +9,7 @@ public class LoginTest {
 		System.out.println("this is my third login");
 		System.out.println("this is checkin done by master after branch");
 		System.out.println("this is creation of conflict at testers branch");
+		System.out.println("this is second connflict at master");
 
 	}
 }
