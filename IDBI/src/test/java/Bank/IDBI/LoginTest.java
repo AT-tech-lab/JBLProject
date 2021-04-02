@@ -14,5 +14,7 @@ public class LoginTest {
 		System.out.println("this is second of conflict at testers branch");
 		
 		System.out.println("this is added by master ");
+		
+		System.out.println("this is added by master at UI date - 2 april ");
 	}
 }
